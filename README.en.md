@@ -9,7 +9,7 @@
 <p align="center"> 
 <img src="https://img.shields.io/badge/Author-SZSK-orange.svg" title="Author: SZSK">
 <img src="https://img.shields.io/badge/Go-1.21.6-brightgreen.svg" title="Go Version: 1.21.6">
-<img src="https://img.shields.io/badge/version-v2.0-brightgreen.svg" title="Version: v2.0">
+<img src="https://img.shields.io/badge/version-v1.0-brightgreen.svg" title="Version: v1.0">
 <img src="https://img.shields.io/badge/GPL-3.0-brightgreen.svg" title="License: GPL-3.0">
 <img src="https://gitee.com/szsk/dwd/badge/star.svg?theme=dark" title="Star Count">  
 <img src="https://gitee.com/szsk/dwd/badge/fork.svg?theme=dark" title="Fork Count">  
